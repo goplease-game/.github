@@ -1,12 +1,29 @@
 ## Hi there 👋
 
-<!--
+This is the development hub of **go, please**.
 
-**Here are some ideas to get you started:**
+### ✨ About the Project
+A turn-based, hex-grid tactical PvP game with deterministic gameplay.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🎮 Play the game: [game.gopl.dev](https://game.gopl.dev)
+
+**Stack**: [Go](http://go.dev), [Ebitengine](https://ebitengine.org/), [EbitenUI](https://github.com/ebitenui/ebitenui)
+
+**Repositories**:
+* [Server](https://github.com/goplease-game/server) — WebSocket server, matchmaking, game logic, bot AI
+* [Client](https://github.com/goplease-game/client) — Ebitengine + EbitenUI
+
+### 🚧 Project Status
+The game is actively developed and fully playable, but still in an early stage. Features, balance, and mechanics may change frequently.
+
+### 🤝 How to get involved
+We don't have formal contribution guidelines yet. We would be happy if you:
+
+* Report bugs
+* Suggest features and balance changes
+* Discuss ideas and provide feedback on [Discord](https://discord.gg/zNCBEnvKQ)
+
+For small fixes, open a PR directly. For larger changes, open an issue or ping us on Discord first.
+
+### 🔗 Community
+Join our [Discord Server](https://discord.gg/zNCBEnvKQ) for non-dev discussions, feedback, and announcements.
