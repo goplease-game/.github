@@ -7,6 +7,8 @@ A turn-based, hex-grid tactical PvP game with deterministic gameplay.
 
 🎮 Play the game: [game.gopl.dev](https://game.gopl.dev)
 
+For rules and mechanics, see [GAMEPLAY.md](../GAMEPLAY.md)
+
 **Stack**: [Go](http://go.dev), [Ebitengine](https://ebitengine.org/), [EbitenUI](https://github.com/ebitenui/ebitenui)
 
 **Repositories**:

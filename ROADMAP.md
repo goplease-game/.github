@@ -4,7 +4,9 @@
 - [ ] Combat log
 - [ ] Unit card with detailed information
 - [ ] Custom team builder: create units and assign abilities
+- [ ] Leaderboard
 - [ ] After battle stats
+- [ ] Custom game rules
 - [ ] Replays
 - [ ] Custom scenarios & campaigns
 - [ ] Save / load
