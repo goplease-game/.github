@@ -26,4 +26,7 @@ We don't have formal contribution guidelines yet. We would be happy if you:
 For small fixes, open a PR directly. For larger changes, open an issue or ping us on Discord first.
 
 ### 🔗 Community
-Join our [Discord Server](https://discord.gg/zNCBEnvKQ) for non-dev discussions, feedback, and announcements.
+Join our [Discord Server](https://discord.gg/zNCBEnvKQ) for discussions, feedback, and announcements.
+
+### 🗺️ Roadmap
+See [ROADMAP.md](../ROADMAP.md) for planned features and improvements.
