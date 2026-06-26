@@ -12,8 +12,8 @@ For rules and mechanics, see [GAMEPLAY.md](../GAMEPLAY.md)
 **Stack**: [Go](http://go.dev), [Ebitengine](https://ebitengine.org/), [EbitenUI](https://github.com/ebitenui/ebitenui)
 
 **Repositories**:
-* [Server](https://github.com/goplease-game/server) — WebSocket server, matchmaking, game logic, bot
-* [Client](https://github.com/goplease-game/client) — Ebitengine + EbitenUI
+* [Server](https://github.com/goplease-game/server): WebSocket server, matchmaking, game logic, bot
+* [Client](https://github.com/goplease-game/client): Ebitengine + EbitenUI
 
 ### 🚧 Project Status
 The game is actively developed and fully playable, but still in an early stage. Features, balance, and mechanics may change frequently.
