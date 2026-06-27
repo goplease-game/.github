@@ -1,10 +1,10 @@
 # Game rules and how to play
 
-1. This is a turn-based game on a hex board with deterministic combat.
+1. This is a turn-based game on a hex board with deterministic gameplay.
 2. Each player controls 6 units. Every unit has its own set of abilities: 1 basic attack, 3 unique active abilities, and 1 unique passive ability. 
 3. Each active ability costs 1 AP (Action Point) to use. Each unit has 1 AP per turn, unless granted extra AP by another ability or game rule.
-4. Each unit has movement points (MP) which determine how far it can move. A unit can move once per turn. Once moved — even less than its full MP — the unit loses all remaining MP and cannot move again this turn.
-5. A unit can move and use abilities in any order, as long as it has not already moved or still has AP to spend.
+4. Each unit has movement points (MP). Each step costs 1 MP, and a unit can keep moving as long as it has MP remaining.
+5. A unit can move and use abilities in any order, as long as it has MP or AP remaining.
 
 ---
 

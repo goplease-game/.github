@@ -1,8 +1,8 @@
 ### 🗺️ Roadmap
 
 **Features**
-- [ ] WIP: Play with friend (via invite link to prepared match) 
-- [ ] Combat log
+- [x] Play with friend (via invite code) 
+- [ ] **WIP: Combat log**
 - [ ] Unit card with detailed information
 - [ ] Custom team builder: create units and assign abilities
 - [ ] Leaderboard
