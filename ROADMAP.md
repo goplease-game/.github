@@ -2,8 +2,8 @@
 
 **Features**
 - [x] Play with friend (via invite code) 
-- [ ] **WIP: Combat log**
-- [ ] Unit card with detailed information
+- [x] In-game log
+- [ ] **WIP:** Unit card with detailed information
 - [ ] Custom team builder: create units and assign abilities
 - [ ] Leaderboard
 - [ ] After battle stats
