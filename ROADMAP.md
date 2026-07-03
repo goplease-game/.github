@@ -4,7 +4,10 @@
 - [x] Play with friend (via invite code) 
 - [x] In-game log
 - [x] Unit card with detailed information
-- [ ] **WIP**: Custom team builder: create units and assign abilities
+- [ ] Settings
+  - [ ] **WIP** General: screen size; sound volume; reset tutorial; reset settings;
+  - [ ] Keybinding
+- [ ] Custom team builder: create units and assign abilities
 - [ ] Leaderboard
 - [ ] After battle stats
 - [ ] Custom game rules
