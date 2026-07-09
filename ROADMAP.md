@@ -10,6 +10,7 @@
 - [ ] Cross-platform releases
 - [ ] Custom team builder: create units and assign abilities
 - [ ] Custom game rules
+- [ ] Endless mode
 - [ ] Replays
 - [ ] Custom scenarios & campaigns
 - [ ] Save / load
